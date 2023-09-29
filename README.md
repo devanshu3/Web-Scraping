@@ -1,3 +1,5 @@
+## WEB SCRAPING
+
 This project is a Python-based web scraping script that extracts information about TV series from IMDb and stores it in a CSV file. It utilizes the requests library to make HTTP requests and BeautifulSoup for HTML parsing. The scraped data includes series names, release years, ratings, and genres.
 
 ## Prerequisites
@@ -30,4 +32,4 @@ Here's a snippet of what the CSV file might look like:
 | Mr. Bean                       | (1990–1995)    | 8.5     | Comedy, Family                      |
 ...
 
-Feel free to customize the README to include any additional information about your project, such as its purpose, contributors, and any special instructions for running or configuring the script.
+**Author** devanshu3
